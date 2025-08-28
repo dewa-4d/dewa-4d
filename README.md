@@ -1,16 +1,25 @@
-## Hi there 👋
+# DEWA4D
 
-<!--
-**dewa-4d/dewa-4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Website Resmi:** [DEWA4D](https://dewa4d.jp.net)
 
-Here are some ideas to get you started:
+Selamat datang di profil resmi **DEWA4D** di GitHub.  
+Kami menyediakan berbagai panduan, tools, dan sumber daya online yang dirancang untuk memberikan pengalaman digital terbaik.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Konten Utama
+- Panduan penggunaan tool digital
+- Tutorial langkah demi langkah
+- Sumber daya & tips online terpercaya
+
+---
+
+## 📚 Akses Cepat
+- [Panduan DEWA4D](https://github.com/dewa-4d/dewa4d.wiki)
+- [Website Resmi](https://dewa4d.jp.net)
+
+---
+
+## 📞 Kontak
+- Email: support@dewa4d.jp.net
+- Website: [DEWA4D](https://dewa4d.jp.net)
